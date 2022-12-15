@@ -1,6 +1,6 @@
-#MERN HOUSE OF JEWELS
+# MERN HOUSE OF JEWELS
 
-#lessons
+# lessons
 
-1.Introduction
-2.Install tools
+1. Introduction
+2. Install tools
